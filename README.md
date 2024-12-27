@@ -26,6 +26,8 @@ TOKYO: tokyo.mainnet.block-engine.jito.wtf
 
 ``HOW TO RUN:``
 
+**Install NodeJS (https://nodejs.org)**
+
 ```
 git clone https://github.com/drewshts/raydium-market-maker.git
 cd raydium-market-maker
