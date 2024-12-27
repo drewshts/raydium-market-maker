@@ -40,3 +40,6 @@ nano config.json
 ```
 npm start
 ```
+
+
+**SUPPORT TG:** [Andrew](https://t.me/andrewbizzle) 
