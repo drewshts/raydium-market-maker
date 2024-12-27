@@ -14,7 +14,7 @@ function displayMainMenu() {
     });
 
     table.push(
-        ['1', 'Start Dex Trending', 'Perform up to 6 unique buy-and-sell actions per transaction,\nensuring minimal loss while significantly boosting token volume\nand makers to increase the chance to be on trending spot.'],
+        ['1', 'Start Dex Trending', 'Perform up to 8 unique buy-and-sell actions per transaction,\nensuring minimal loss while significantly boosting token volume\nand makers to increase the chance to be on trending spot.'],
         ['2', 'Volume Calculator', 'Calculate the total token volume based on user-specified\nparameters such as Min and Max buy in SOL,\nDesired Volume, and token exchange rate.'],
         ['3', 'Exit', 'Exit the program / CTRL + C to exit at any point.']
     );
