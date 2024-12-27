@@ -24,7 +24,7 @@ TOKYO: tokyo.mainnet.block-engine.jito.wtf
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-``HOW TO RUN:``
+**HOW TO RUN**
 
 **Install NodeJS (https://nodejs.org)**
 
@@ -34,6 +34,8 @@ cd raydium-market-maker
 npm install
 nano config.json
 ```
+
+**THEN**
 
 ```
 npm start
