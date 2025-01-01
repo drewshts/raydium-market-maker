@@ -24,7 +24,7 @@ TOKYO: tokyo.mainnet.block-engine.jito.wtf
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-``HOW TO RUN:``
+**HOW TO RUN**
 
 **Install NodeJS (https://nodejs.org)**
 
@@ -32,5 +32,15 @@ TOKYO: tokyo.mainnet.block-engine.jito.wtf
 git clone https://github.com/drewshts/raydium-market-maker.git
 cd raydium-market-maker
 npm install
+nano config.json
+```
+
+**THEN**
+
+```
 npm start
 ```
+
+
+**SUPPORT TG:** [Andrew](https://t.me/andrewbizzle)
+**Discord:** [GAW](https://discord.gg/ygxgHpFUt2)
