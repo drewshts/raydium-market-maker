@@ -42,4 +42,5 @@ npm start
 ```
 
 
-**SUPPORT TG:** [Andrew](https://t.me/andrewbizzle) 
+**SUPPORT TG:** [Andrew](https://t.me/andrewbizzle)
+**Discord:** [GAW](https://discord.gg/ygxgHpFUt2)
